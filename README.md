@@ -1,1 +1,1 @@
-# Imaging-Panda---Terms-Policies
+### Imaging Panda's Terms and Policies
