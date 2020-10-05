@@ -1,6 +1,6 @@
 # Imaging Panda's Terms and Conditions
 
-In effect September 27, 2020; Last updated October 1, 2020
+Effective September 27, 2020; Last updated October 1, 2020.
 
 
 
