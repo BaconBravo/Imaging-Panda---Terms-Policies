@@ -9,9 +9,9 @@ Appointment changes should not be made with centers directly.
 
 Cancellations or reschedules should be made by email: help@imagingpanda.com
 
-**Cancellation fees**
-Greater than 48 hours prior to the appointment: None
-Less than 48 hours prior to appointment: 25%
+**Cancellation fees:**
+* Greater than 48 hours prior to the appointment: None
+* Less than 48 hours prior to appointment: 25%
 
 If a cancellation is made directly with the facility (bypassing Imaging Panda) the patient is still responsible for the cancellation fee.
 
