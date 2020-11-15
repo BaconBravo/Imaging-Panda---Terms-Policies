@@ -3,3 +3,4 @@
 - [Privacy Policy](https://github.com/BaconBravo/Imaging-Panda-Terms-Policies/blob/main/Privacy%20Policy.md)
 - [Cancellation Policy](https://github.com/BaconBravo/Imaging-Panda-Terms-Policies/blob/main/Cancellation%20Policy.md)
 - [Refund Policy](https://github.com/BaconBravo/Imaging-Panda-Terms-Policies/blob/main/Refund%20Policy.md)
+- [HIPAA Authorization](https://github.com/BaconBravo/Imaging-Panda-Terms-Policies/blob/main/HIPAA%20Authorization.md)
